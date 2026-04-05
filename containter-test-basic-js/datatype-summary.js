@@ -1,5 +1,5 @@
 //  Primitive(call by value)
-
+// JavaScript is primarily a dynamic language, but it incorporates static features for specific object-oriented and organizational purposes
 //  7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt
 
 const score = 100
