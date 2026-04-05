@@ -6,6 +6,7 @@ let islogin=false
 let state=null//null datatype is object
 
 //number=>2 to power 53
+//bigInt=>use to store large numbers
 //string=""
 //boolean=true/false
 //null=>standalone value(empty)
